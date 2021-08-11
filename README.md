@@ -4,8 +4,6 @@ REST API para emissão de boletos e controle de arquivos CNAB 240
 
 ## Stack
 
---------
-
 #### Java 8
 #### Spring Boot
     Framework para API Rest
@@ -30,8 +28,6 @@ REST API para emissão de boletos e controle de arquivos CNAB 240
 
 ## Biblioteca própria CNAB 240
 
---------
-
 A biblioteca foi desenvolvida para simplificar a criação e leitura de arquivos CNAB 240, utilizando templates no formato YAML. No código atual, foi implementado o template para o banco Santander.
 
 ### O que é CNAB 240?
@@ -41,8 +37,6 @@ Ele determina o formato de texto e a quantidade de colunas presentes nos arquivo
 
 
 ## Autor
-
---------
 
 Bruno Silveira 
 
