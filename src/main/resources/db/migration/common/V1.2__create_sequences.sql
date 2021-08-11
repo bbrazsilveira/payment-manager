@@ -1,0 +1,5 @@
+DROP SEQUENCE IF EXISTS seq_arquivo;
+CREATE SEQUENCE seq_arquivo;
+
+DROP SEQUENCE IF EXISTS seq_nosso_numero;
+CREATE SEQUENCE seq_nosso_numero START 1000;

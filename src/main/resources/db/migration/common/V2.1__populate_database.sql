@@ -1,0 +1,1 @@
+INSERT INTO cnt_user ("id") VALUES ('9e5127c3-4219-44f0-805a-d132fe5cf461');
